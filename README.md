@@ -111,8 +111,8 @@ The NCCoE concept paper poses specific questions across six areas. This comment 
 
 ## Document
 
-`NIST_Comment_PatrickMartinezPeel.pdf` — The submitted com[NIST_Comment_PatrickMartinezPeel.pdf](https://github.com/user-attachments/files/25854598/NIST_Comment_PatrickMartinezPeel.pdf)
-ment
+`(https://github.com/user-attachments/files/25854598/NIST_Comment_PatrickMartinezPeel.pdf) - submitted comment.
+
 
 ---
 
